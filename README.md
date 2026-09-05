@@ -1,0 +1,1 @@
+# Sistema de venda desenvolvido em Python como projeto prático de avaliação acadêmica, aplicando funções, estruturas condicionais, estruturas de repetição, validação de entradas e regras de negócio para cálculo de pedidos.
